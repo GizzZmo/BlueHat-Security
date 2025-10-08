@@ -115,8 +115,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Automated remediation suggestions
 - Multi-language support
 - Custom color themes
+- Report templates
 - Command-line interface mode
 - REST API for automation
+- Database integration
+- Cloud sync capabilities
+- Mobile companion app
 
 ### Known Issues
 - tkinter not available in headless environments (expected)
